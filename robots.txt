@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://merrymen.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
